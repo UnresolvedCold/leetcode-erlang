@@ -3,7 +3,7 @@ leetcode-erlang
 
 | 序号 |   题名   | 问题 | 题解 | erl题解 | 难度 |
 | :--: | :--: | :--: | :--: | :--: | :--: |
-| x | 两数之和 | [链接](https://leetcode.com/problems/two-sum) | [链接](https://leetcode-cn.com/problems/two-sum/solution) | [链接](/src/algorithms/algorithms_1.erl) | 简单 |
+| 1 | 两数之和 | [链接](https://leetcode.com/problems/two-sum) | [链接](https://leetcode-cn.com/problems/two-sum/solution) | [链接](/src/algorithms/algorithms_1.erl) | 简单 |
 | 2 | 两数相加 | [链接](https://leetcode.com/problems/add-two-numbers) | [链接](https://leetcode-cn.com/problems/add-two-numbers/solution) | [链接](/src/algorithms/algorithms_2.erl) | 中等 |
 | 3 | 无重复字符的最长子串 | [链接](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [链接](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/solution) | [链接](/src/algorithms/algorithms_3.erl) | 中等 |
 | 4 | 寻找两个有序数组的中位数 | [链接](https://leetcode.com/problems/median-of-two-sorted-arrays) | [链接](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/solution) | [链接](/src/algorithms/algorithms_4.erl) | 困难 |
